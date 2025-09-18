@@ -1,6 +1,5 @@
 /*Name: Sarah Petz
 Date:12/10/24
-Honors Advanced Programming
 Project Description: Peg Solitaire */
 
 import java.awt.Color;
@@ -187,3 +186,4 @@ public class FinalProject extends JPanel {
 
    
 }
+
